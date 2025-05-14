@@ -1,0 +1,9 @@
+torch
+transformers
+peft
+scikit-learn
+tqdm
+joblib
+evaluate
+git+https://github.com/Nazar1997/Sparse_vector.git
+git+https://github.com/vladislareon/z_dna.git
